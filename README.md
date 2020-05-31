@@ -1,2 +1,5 @@
-# [Elliott Loveridge - Personal Website](https://eloveridge.com)
+# [Elliott Loveridge - Personal Website]
+
+[Live Version](https://eloveridge.com)
+[Beta Version](https://elliottloveridge-uob.github.io/test-website/)
 
