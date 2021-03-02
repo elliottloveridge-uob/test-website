@@ -1,5 +1,4 @@
-# Elliott Loveridge
-## Personal Website
+## Portfolio Website
 
 [Live Version](https://eloveridge.com)
 
